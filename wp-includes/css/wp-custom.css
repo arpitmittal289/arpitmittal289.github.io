@@ -168,6 +168,18 @@ a {
     color: lightblue !important
 }
 
+.menu-item a {
+    color:  #002244 !important;
+}
+
+.mean-bar a {
+    color:  #002244 !important;
+}
+
+.mean-container a.meanmenu-reveal span {
+    background: #002244 !important;
+}
+
 .kc-flip-container .back .des .button {
     background: #37c1ae;
     margin: 30%;
